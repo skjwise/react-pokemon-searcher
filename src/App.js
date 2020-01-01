@@ -7,5 +7,5 @@ const App = () => (
     <PokemonIndex />
   </div>
 )
-
+ 
 export default App
